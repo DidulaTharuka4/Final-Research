@@ -21,7 +21,7 @@ Step 02 - Build the Application/System
 Step 03 - Perform Analysis
   1. Textual Analysis- using NLP
             Tasks: Sentiment Analysis: Identify positive, negative, or neutral emotions.
-                   Emotion Detection: Classify emotions (e.g., happy, sad, angry, disgust, fear, surprise) from tweets/comments.
+                   Emotion Detection: Classify emotions (e.g., joy, sad, angry, disgust, fear, surprise,neutral,shame,suprise) from tweets/comments.
   
   3. Imag Analysis- using custom CNN
             Tasks: Expression Detection: Analyze facial expressions in shared multimedia (e.g., smile, frown).
