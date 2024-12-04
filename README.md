@@ -47,4 +47,5 @@ Step 05 - Visualize and Interpret the Results
       Visualization Tools:  Flutter Charts
                             Dashboard- Emotion Breakdown, Interaction Heatmaps, Sentiment Trend Line over Time
       User Feedback:  Provide Personalized Insights to users (ex:“You are more active during {morning/evening}, “Your emotions were predominantly {happy/sad/neutral} today.””)
-                      Offer Mental Health Tips or recommend consulting a professional if patterns suggest negative trends
+                      Offer Mental Health Tips or recommend consulting a professional if patterns suggest negative trends.
+                      Offer a mental health solution - Virtual pet.
