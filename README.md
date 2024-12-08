@@ -50,5 +50,6 @@ Step 05 - Visualize and Interpret the Results
                       Offer Mental Health Tips or recommend consulting a professional if patterns suggest negative trends.
                       Offer a mental health solution - Virtual pet.
 
-![image](https://github.com/user-attachments/assets/bac4dd68-c906-4fae-b8bc-98d2a3bb6291)
+![Screenshot 2024-12-08 202907](https://github.com/user-attachments/assets/2e437874-208c-4dfe-88ea-bd342d4e70d0)
+
 
