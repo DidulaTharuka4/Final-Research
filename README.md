@@ -46,6 +46,9 @@ Step 04 - Mental Health Status Assessment
 Step 05 - Visualize and Interpret the Results
       Visualization Tools:  Flutter Charts
                             Dashboard- Emotion Breakdown, Interaction Heatmaps, Sentiment Trend Line over Time
-      User Feedback:  Provide Personalized Insights to users (ex:“You are more active during {morning/evening}, “Your emotions were predominantly {happy/sad/neutral} today.””)
+      User Feedback:  Provide Personalized Insights to users (ex:“You are more active during {morning/evening}, “Your emotions were predominantly {happy/sad/neutral} today.”)
                       Offer Mental Health Tips or recommend consulting a professional if patterns suggest negative trends.
                       Offer a mental health solution - Virtual pet.
+
+![image](https://github.com/user-attachments/assets/bac4dd68-c906-4fae-b8bc-98d2a3bb6291)
+
